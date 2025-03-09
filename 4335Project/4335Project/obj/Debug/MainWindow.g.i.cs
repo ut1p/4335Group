@@ -57,6 +57,14 @@ namespace _4335Project {
         #line hidden
         
         
+        #line 37 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button Khachaturyan_4335;
+        
+        #line default
+        #line hidden
+        
+        
         #line 38 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button Shafigullin_4335;
@@ -137,6 +145,15 @@ namespace _4335Project {
             #line hidden
             return;
             case 3:
+            this.Khachaturyan_4335 = ((System.Windows.Controls.Button)(target));
+            
+            #line 37 "..\..\MainWindow.xaml"
+            this.Khachaturyan_4335.Click += new System.Windows.RoutedEventHandler(this.Khachaturyan_4335_Click);
+            
+            #line default
+            #line hidden
+            return;
+            case 4:
             this.Shafigullin_4335 = ((System.Windows.Controls.Button)(target));
             
             #line 38 "..\..\MainWindow.xaml"
@@ -145,7 +162,7 @@ namespace _4335Project {
             #line default
             #line hidden
             return;
-            case 4:
+            case 5:
             this.Yakimova_4335 = ((System.Windows.Controls.Button)(target));
             
             #line 39 "..\..\MainWindow.xaml"
@@ -154,7 +171,7 @@ namespace _4335Project {
             #line default
             #line hidden
             return;
-            case 5:
+            case 6:
             this.Zhelvakov_4335 = ((System.Windows.Controls.Button)(target));
             
             #line 40 "..\..\MainWindow.xaml"
@@ -163,7 +180,7 @@ namespace _4335Project {
             #line default
             #line hidden
             return;
-            case 6:
+            case 7:
             this.Kurmanova_4335 = ((System.Windows.Controls.Button)(target));
             
             #line 41 "..\..\MainWindow.xaml"
